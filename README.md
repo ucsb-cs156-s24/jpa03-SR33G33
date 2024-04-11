@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-SR33G33
 
 Running at: <https://jpa03-sr33g33.dokku-12.cs.ucsb.edu/>
 
